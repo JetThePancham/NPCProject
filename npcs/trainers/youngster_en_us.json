@@ -1,0 +1,81 @@
+{
+    "data": {
+        "trainerType": "Youngster",
+        "minLevel": 10,
+        "maxLevel":25,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 200,
+        "rarity": 10,
+        "spawnBiomes": "Jungle, Beach, Birch Forest, Desert, Flower Forest, Forest, Sunflower Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Meowth"
+        },
+        {
+            "name": "Hoppip"
+        },
+        {
+            "name": "Furett"
+         {
+            "name": "Pidgey
+         },       
+         {
+            "name": "Spearow"
+          },      
+             "name": "Chatot"
+        },   
+        
+        },   
+        }
+
+    ],
+    "names": [
+        {
+            "name": "Joe"
+        },
+        {
+            "name": "Bob"
+            },
+        {
+            "name": "Jake"
+            },
+        {
+            "name": "Jet"
+            },
+        {
+            "name": "Phil"
+            },
+        {
+            "name": "Nate"
+            },
+        {
+            "name": "Keita"
+            },
+        {
+            "name": "Danial"
+            },
+        {
+            "name": "Dave"
+            },
+        {
+            "name": "Tobias"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I'll beat you!",
+            "win": "I bet you! Ha ha!",
+            "lose": "How?!"
+        },
+        {
+            "opening": "Battle!",
+            "win": "Oh, yeah. I am the best!",
+            "lose": "Oh seriously?"
+        }
+    ]
+}
