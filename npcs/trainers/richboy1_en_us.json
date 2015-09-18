@@ -1,0 +1,220 @@
+{
+    "data": {
+        "trainerType": "RichBoy1",
+        "minLevel": 8,
+        "maxLevel": 30,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Venonat"
+        },
+        {
+            "name": "Meowth"
+        },
+        {
+            "name": "Persian"
+        },
+        {
+            "name": "Machop"
+        },
+        {
+            "name": "Machoke"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Pinsir"
+        },
+        {
+            "name": "Gyarados"
+        },
+        {
+            "name": "Porygon"
+        },
+        {
+            "name": "Porygon2"
+        },
+        {
+            "name": "Porygon-Z"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jake"
+        },
+        {
+            "name": "Anthony"
+        },
+        {
+            "name": "John"
+        },
+        {
+            "name": "Nate"
+        },
+        {
+            "name": "Brandon"
+        },
+        {
+            "name": "Brend"
+        },
+        {
+            "name": "Cole"
+        },
+        {
+            "name": "David"
+        },
+        {
+            "name": "Drake"
+        },
+        {
+            "name": "Connor"
+        },
+        {
+            "name": "Danial"
+        },
+        {
+            "name": "Dan"
+        },
+        {
+            "name": "Entony"
+        },
+        {
+            "name": "Doug"
+        },
+        {
+            "name": "Keita"
+        },
+        {
+            "name": "Foster"
+        },
+        {
+            "name": "Eddie"
+        },
+        {
+            "name": "Kuma"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jonah"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "Josh"
+        },
+        {
+            "name": "Kage"
+        },
+        {
+            "name": "Ken"
+        },
+        {
+            "name": "Kent"
+        },
+        {
+            "name": "Miyamoto"
+        },
+        {
+            "name": "Phillip"
+        },
+        {
+            "name": "Rick"
+        },
+        {
+            "name": "Rob"
+        },
+        {
+            "name": "SPenser"
+        },
+        {
+            "name": "Sam"
+        },
+        {
+            "name": "Vance"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Hibby"
+        },
+        {
+            "name": "Cail"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Izzy"
+        },
+        {
+            "name": "Joe"
+        },
+        
+        {
+            "name": "Bret"
+        },
+        {
+            "name": "Bryan"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Tobbson"
+        },
+        {
+            "name": "Wattson"
+        },
+        {
+            "name": "Garil"
+        },
+        {
+            "name": "Bobby"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I'll pay money for win!",
+            "win": "I knew I am the best",
+            "lose": "I forgot money at home, shoot!!"
+        },
+        {
+            "opening": "Hey! You think you'll win? I think not.",
+            "win": "I'm always right!.",
+            "lose": "Umm... Ok."
+        },
+        {
+            "opening": "Hey, you! Battle?!",
+            "win": "Hah",
+            "lose": "I'm sorry I asked...."
+        },
+        {
+            "opening": "Pokemon battle begin!.",
+            "win": "I am the best!",
+            "lose": "Hmph, I lost."
+        },
+        {
+            "opening": "So, you think you'll win?",
+            "win": "I knew you didn't know.",
+            "lose": "Rematch?!"
+        {
+            "opening": "My pokemon won't lose!",
+            "win": "I said my pokemon won't lose?",
+            "lose": "Oh, okay"
+        }
+    ]
+}
